@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dianamar21
 - 👀 I’m interested in education and I am a begginer in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me diana.mar9721@gmail.com
 
